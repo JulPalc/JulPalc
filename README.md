@@ -5,21 +5,26 @@
 </div>
 
 
-### :woman_technologist: About Me :
+### About Me :
 I'm Junior Front-end Developer.
 <div id="badges">
+  
+### Contact with Me :
   <a href="https://t.me/julia_pa">
     <img src="https://www.svgrepo.com/show/299513/telegram.svg" width="30" alt="Telegram Badge"/>&nbsp;
   </a>
+   <a href="palchun97@mail.ru">
+    <img src="https://www.svgrepo.com/show/343852/email-marketing-envelope-letter.svg" width="30" alt="Email Badge"/>&nbsp;
+  </a>
 </div>
 
-### 📚 My skills :
+### My skills :
 - HTML: use HTML tags according to their semantics, the concept of document flow. 
 - CSS: adaptive layout using media expressions, flexbox/layout, basic principles of BEM.
 - JavaScript: the basic JS data structures, connecting and using libraries/frameworks;
 - Git: basic commands, "one commit, one task".
 
-### :hammer_and_wrench Languages and Tools :
+### Languages and Tools :
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -32,7 +37,7 @@ I'm Junior Front-end Developer.
 </div>
 </div>
 
-### 👩‍🎓 Education :
+### Education :
 <div>
 The Voronezh State University. Faculty of Economics (2015-2019) &nbsp;
 </div>
