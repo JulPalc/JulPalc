@@ -11,9 +11,9 @@ I'm Junior Front-end Developer.
   
 ### Contact with Me :
   <a href="https://t.me/julia_pa">
-    <img src="https://www.svgrepo.com/show/299513/telegram.svg" width="30" alt="Telegram Badge"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/299513/telegram.svg"  target=_blank width="30" alt="Telegram Badge"/>&nbsp;
   </a>
-   <a href="palchun97@mail.ru">
+   <a href="mailto:palchun97@mail.ru" target=_blank>
     <img src="https://www.svgrepo.com/show/343852/email-marketing-envelope-letter.svg" width="30" alt="Email Badge"/>&nbsp;
   </a>
 </div>
